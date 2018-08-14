@@ -1,5 +1,5 @@
 # DRN-MXNet
-The [autho](https://github.com/zhuangyqin/DRN.git) of this projcet doesn't release the config file and usages.
+The [author](https://github.com/zhuangyqin/DRN.git) of this projcet doesn't release the config file and usages.
 I was working on semantic segmentation based on MXNet. So I have fix the errors and add usage for the original project.
 
 ## 1. Setup
